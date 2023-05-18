@@ -15,6 +15,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+WELCOME TO MY WORLD !!!
   <build>
     <finalName>42-Maven-web-App</finalName>
   </build>
